@@ -5,5 +5,5 @@ import App from './App';
 import DataApp from './App';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<DataApp />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
